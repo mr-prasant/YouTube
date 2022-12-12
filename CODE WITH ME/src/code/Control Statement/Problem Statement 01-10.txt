@@ -1,0 +1,10 @@
+Problem 01. Date is valid or not.
+Problem 02. Get difference of two dates.
+Problem 03. Multiplication by Russian Peasant method.
+Problem 04. Number of notes required for a given amount of money.
+Problem 05. Triad number.
+Problem 06. Find the LCM and HCF of two numbers.
+Problem 07. Print number from 1 to 80 separated by tab (8 num per line).
+Problem 08. Find the largest number.
+Problem 09. Histogram from array.
+Problem 10. Print all the prime number from 1 to 99.
