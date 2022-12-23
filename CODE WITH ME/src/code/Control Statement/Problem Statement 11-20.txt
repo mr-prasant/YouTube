@@ -1,0 +1,10 @@
+11. REVERSE a number.
+12. Find whether a number is palindrome or not.
+13. Display all the 4 digit palindromes.
+14. Print FIBONACCI series.
+15. Count the Digits of a number.
+16. Count a particular Digits of a number.
+17. Print SQUARE upto n.
+18. Print CUBES which is divisible by 3 upto n.
+19. Print value of x raised y.
+20. Check the number is FIBONACCI or not.
